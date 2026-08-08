@@ -1,0 +1,5 @@
+flask>=3.0
+cryptography>=42.0
+argon2-cffi>=23.1
+kyber-py>=1.0
+dilithium-py>=1.0
